@@ -1,0 +1,1 @@
+# LQMT Google Trend CSV
